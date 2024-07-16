@@ -1,7 +1,14 @@
 # Docker
- Comandos basicos Docker
+# 16 de Julho de 2024 - Hitalo Aquino
+# Comandos basicos Docker
+
+```
+docker run [OPTIONS] IMAGE[:TAG]
+
+```
+
  
-# Segue a lista de comandos docker e sua utilidade:
+# Segue uma pequena lista de comandos docker e sua utilidade abaixo:
 ```
 docker attach  – Acessar dentro do container e trabalhar a partir dele.
 docker build   – A partir de instruções de um arquivo Dockerfile eu possa criar uma imagem.
